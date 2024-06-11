@@ -7,13 +7,13 @@
 
 There are some projects I have participated in on my GitHub page:
 -  MIT 6.5840 Lab
-  -   Lab 1 - Map Reduce - Done
-  -   Lab 2 - KV System - Done
-  -   Lab 3 - Raft  - Progressing
+      -   Lab 1 - Map Reduce - Done
+      -   Lab 2 - KV System - Done
+      -   Lab 3 - Raft  - Progressing
 -  CMU 15-455 Lab
-  -   Lab 0 - C/C++ Primer - Done
+      -   Lab 0 - C/C++ Primer - Done
 -  Design Lens
-  -   This project is focus on interior trend detection, also we train a multimodality train to predict interior price.
+      -   This project is focus on interior trend detection, also we train a multimodality train to predict interior price.
 -  Cached-Api-Design
-  -   This is a high performance API service using MongoDB and Cache to serve a Advertisment service.
-  -   This service can stand high performance for searching require Advertisement. (about 1000 times/sec)
+      -   This is a high performance API service using MongoDB and Cache to serve a Advertisment service.
+      -   This service can stand high performance for searching require Advertisement. (about 1000 times/sec)
