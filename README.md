@@ -10,8 +10,6 @@ There are some projects I have participated in on my GitHub page:
       -   Lab 1 - Map Reduce - Done
       -   Lab 2 - KV System - Done
       -   Lab 3 - Raft  - Progressing
--  CMU 15-455 Lab
-      -   Lab 0 - C/C++ Primer - Done
 -  Design Lens
       -   This project is focus on interior trend detection, also we train a multimodality train to predict interior price.
 -  Cached-Api-Design
