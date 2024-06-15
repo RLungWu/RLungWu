@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chi-Liang Wu, or you can call me Liang.
 - 💞️ I’m very interested in coding, including ML or backend development.
 - 🌱 Majoring in Information Management at National Taiwan University.
-- 🏫 I've been exchanged in NHH.
+- 🏫 I'm goint to exchange in NHH.
 - 👀 Currently looking for internship opportunities in bakcend development or data analysis.
 
 
