@@ -10,8 +10,12 @@ There are some projects I have participated in on my GitHub page:
       -   Lab 1 - Map Reduce - Done
       -   Lab 2 - KV System - Done
       -   Lab 3 - Raft  - Progressing
--  Design Lens
-      -   This project is focus on interior trend detection, also we train a multimodality train to predict interior price.
 -  Cached-Api-Design
       -   This is a high performance API service using MongoDB and Cache to serve a Advertisment service.
       -   This service can stand high performance for searching require Advertisement. (about 1000 times/sec)
+      -   This service provide two Restful Api for users to add and search the ad.
+- HTTPServer
+      -   This is a simple server implementation based on c++.
+      -   I used the basic linux internet package to build.
+-  Design Lens
+      -   This project is focus on interior trend detection, also we train a multimodality train to predict interior price.
